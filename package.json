@@ -1,5 +1,5 @@
 {
-  "name": "fitness-tracker",
+  "name": "mongoose_skeleton",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "seed": "node seeders/seed.js"
   },
   "author": "Joyson Enoch",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
